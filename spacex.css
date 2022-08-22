@@ -1,0 +1,194 @@
+
+.header{
+    display: flex;
+    background-color:transparent;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+}
+body{
+    margin: 0;
+    background-size: cover;
+}
+
+.logo{
+    width: 20%;
+
+}
+.main{
+    width: 60%;
+
+}
+.login{
+    width: 20%;
+    display: flex;
+}
+.login-shop{
+    width: 50%;
+}
+.login-menu-logo{
+    width: 50%;
+}
+.logo img{
+    width: 200px;
+    margin-left: 100px;
+    margin-top:  -18px;;
+}
+.main-full{
+    font-family: "Lohit Malayalam", Arial, "Droid Serif", "sans-serif" ;
+    color:white;
+    list-style-type: none;  
+    display: flex;
+    justify-content:space-between;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.main-shop{
+    font-family: "Lohit Malayalam", Arial, "Droid Serif", "sans-serif" ;
+    color:white;
+    list-style-type: none;  
+    display: flex;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+.menu-logo{
+    width: 15px;
+    margin-top: 33px;
+    margin-left: 80px;
+}
+
+.spc{
+   width: 100%;
+   height: 100vh;
+}
+ .recent-launch{
+    
+    margin-left: 100px;
+    font: 20px/38px Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    margin-bottom: -30px;}
+.kplo-mission{
+    font: 46px/50px Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    margin-left: 100px;
+    
+    
+} 
+
+.l {
+    position: absolute;
+    top: 400px;
+}
+.rewatch{
+    margin-left: 100px;
+    font: 29px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    background:  transparent;
+    border:  2px solid white;
+    text-align:  center;
+    color: white;
+    font-size:14px;
+    width:  170px;
+    height: 50px;
+    cursor: pointer;
+}
+.rewatch:hover{
+    background: white;
+    color: #000;
+}
+.spc2{
+    height: 100%;
+    width: 100%;
+}
+.recent-launch2{
+    margin-left: 100px;
+    font: 20px/38px Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    margin-bottom: -30px;
+    
+}
+.crs25{
+    font: 46px/50px Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    margin-left: 100px;
+}
+
+.image-two {
+    position: relative;
+}
+
+.im2{
+    position: absolute;
+    top: 400px;
+}
+.spc3{
+    width: 100%;
+    height: 100%;
+}
+.starship{
+    font: 46px/50px Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+    margin-left: 100px;
+}
+.image-three{
+    position: relative;
+}
+.img3{
+    position: absolute;
+    top: 433px;
+}
+.learn-more{
+    margin-left: 100px;
+    font: 55px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    background:  transparent;
+    border:  2px solid white;
+    text-align:  center;
+    color: white;
+    font-size:14px;
+    width:  170px;
+    height: 50px;
+
+}
+.learn-more:hover{
+    background: white;
+    color: #000;
+}
+.image-four{
+    position: relative;
+}
+.img4{
+    position: absolute;
+    top: 268px;
+}
+.footer{
+    font-family: "Lohit Malayalam", Arial, "Droid Serif", "sans-serif" ;
+    color:white; 
+    display: flex;
+    background: black;
+    justify-content:center;
+    align-items: center;
+    font-size: 13px;
+    height: 110px;
+
+}
+
+.footer-color{
+    background-color: #000;
+    color: white;
+    display: flex;
+    gap: 2rem;
+    list-style-type: none; 
+    
+}
+
+
